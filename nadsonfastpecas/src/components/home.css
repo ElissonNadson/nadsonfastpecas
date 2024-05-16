@@ -1,0 +1,22 @@
+
+.body {
+  background: linear-gradient(to right, #DAA520, #B0E0E6);
+  color: #fff;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4);
+}
+
+.descricao {
+  font-size: 1.1rem;
+  color: #EFEFEF;
+  margin-bottom: 2rem;
+}
+
+.btn-iniciar {
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  font-weight: bold;
+  background-color: #FFC107;
+  border: none;
+}
+
+/* Adicione mais estilos conforme necessário */

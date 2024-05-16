@@ -1,0 +1,14 @@
+/* Cor da fonte para preto */
+body {
+    color: black; /* Cor da fonte */
+}
+
+/* Botão com cor escura e muda de cor ao passar o mouse */
+.btn {
+    background-color: #000000; /* Cor de fundo do botão (preto) */
+    color: white; /* Cor do texto do botão (branco) */
+}
+
+.btn:hover {
+    background-color: #004aaf; /* Cor de fundo do botão ao passar o mouse (azul) */
+}
